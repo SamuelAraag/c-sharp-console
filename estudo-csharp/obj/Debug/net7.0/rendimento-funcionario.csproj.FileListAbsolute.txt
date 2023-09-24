@@ -1,0 +1,15 @@
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/bin/Debug/net7.0/rendimento-funcionario
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/bin/Debug/net7.0/rendimento-funcionario.deps.json
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/bin/Debug/net7.0/rendimento-funcionario.runtimeconfig.json
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/bin/Debug/net7.0/rendimento-funcionario.dll
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/bin/Debug/net7.0/rendimento-funcionario.pdb
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/obj/Debug/net7.0/rendimento-funcionario.csproj.AssemblyReference.cache
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/obj/Debug/net7.0/rendimento-funcionario.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/obj/Debug/net7.0/rendimento-funcionario.AssemblyInfoInputs.cache
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/obj/Debug/net7.0/rendimento-funcionario.AssemblyInfo.cs
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/obj/Debug/net7.0/rendimento-funcionario.csproj.CoreCompileInputs.cache
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/obj/Debug/net7.0/rendimento-funcionario.dll
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/obj/Debug/net7.0/refint/rendimento-funcionario.dll
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/obj/Debug/net7.0/rendimento-funcionario.pdb
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/obj/Debug/net7.0/rendimento-funcionario.genruntimeconfig.cache
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/obj/Debug/net7.0/ref/rendimento-funcionario.dll

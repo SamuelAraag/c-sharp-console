@@ -1,0 +1,15 @@
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/bin/Debug/net7.0/stringbuilder
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/bin/Debug/net7.0/stringbuilder.deps.json
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/bin/Debug/net7.0/stringbuilder.runtimeconfig.json
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/bin/Debug/net7.0/stringbuilder.dll
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/bin/Debug/net7.0/stringbuilder.pdb
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/obj/Debug/net7.0/stringbuilder.csproj.AssemblyReference.cache
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/obj/Debug/net7.0/stringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/obj/Debug/net7.0/stringbuilder.AssemblyInfoInputs.cache
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/obj/Debug/net7.0/stringbuilder.AssemblyInfo.cs
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/obj/Debug/net7.0/stringbuilder.csproj.CoreCompileInputs.cache
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/obj/Debug/net7.0/stringbuilder.dll
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/obj/Debug/net7.0/refint/stringbuilder.dll
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/obj/Debug/net7.0/stringbuilder.pdb
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/obj/Debug/net7.0/stringbuilder.genruntimeconfig.cache
+/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/obj/Debug/net7.0/ref/stringbuilder.dll

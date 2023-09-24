@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/estudo-csharp.csproj": {}
+    "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/rendimento-funcionario.csproj": {}
   },
   "projects": {
-    "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/estudo-csharp.csproj": {
+    "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/rendimento-funcionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/estudo-csharp.csproj",
-        "projectName": "estudo-csharp",
-        "projectPath": "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/estudo-csharp.csproj",
+        "projectUniqueName": "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/rendimento-funcionario.csproj",
+        "projectName": "rendimento-funcionario",
+        "projectPath": "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/rendimento-funcionario.csproj",
         "packagesPath": "/Users/samuelaraag/.nuget/packages/",
         "outputPath": "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/obj/",
         "projectStyle": "PackageReference",

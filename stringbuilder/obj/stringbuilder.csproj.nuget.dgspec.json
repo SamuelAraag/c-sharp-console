@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/estudo-csharp.csproj": {}
+    "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/stringbuilder.csproj": {}
   },
   "projects": {
-    "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/estudo-csharp.csproj": {
+    "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/stringbuilder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/estudo-csharp.csproj",
-        "projectName": "estudo-csharp",
-        "projectPath": "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/estudo-csharp.csproj",
+        "projectUniqueName": "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/stringbuilder.csproj",
+        "projectName": "stringbuilder",
+        "projectPath": "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/stringbuilder.csproj",
         "packagesPath": "/Users/samuelaraag/.nuget/packages/",
-        "outputPath": "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/obj/",
+        "outputPath": "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/samuelaraag/.nuget/NuGet/NuGet.Config"

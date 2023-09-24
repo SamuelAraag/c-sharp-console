@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/rendimento-funcionario.csproj",
-      "projectName": "rendimento-funcionario",
-      "projectPath": "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/rendimento-funcionario.csproj",
+      "projectUniqueName": "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/stringbuilder.csproj",
+      "projectName": "stringbuilder",
+      "projectPath": "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/stringbuilder.csproj",
       "packagesPath": "/Users/samuelaraag/.nuget/packages/",
-      "outputPath": "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/estudo-csharp/obj/",
+      "outputPath": "/Users/samuelaraag/Downloads/documentos/projetos/c-sharp-console/stringbuilder/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/samuelaraag/.nuget/NuGet/NuGet.Config"
