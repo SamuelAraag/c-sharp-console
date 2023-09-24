@@ -1,0 +1,15 @@
+/Users/samuelaraag/Downloads/documentos/programacao/estudo-csharp/estudo-csharp/bin/Debug/net7.0/estudo-csharp
+/Users/samuelaraag/Downloads/documentos/programacao/estudo-csharp/estudo-csharp/bin/Debug/net7.0/estudo-csharp.deps.json
+/Users/samuelaraag/Downloads/documentos/programacao/estudo-csharp/estudo-csharp/bin/Debug/net7.0/estudo-csharp.runtimeconfig.json
+/Users/samuelaraag/Downloads/documentos/programacao/estudo-csharp/estudo-csharp/bin/Debug/net7.0/estudo-csharp.dll
+/Users/samuelaraag/Downloads/documentos/programacao/estudo-csharp/estudo-csharp/bin/Debug/net7.0/estudo-csharp.pdb
+/Users/samuelaraag/Downloads/documentos/programacao/estudo-csharp/estudo-csharp/obj/Debug/net7.0/estudo-csharp.csproj.AssemblyReference.cache
+/Users/samuelaraag/Downloads/documentos/programacao/estudo-csharp/estudo-csharp/obj/Debug/net7.0/estudo-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelaraag/Downloads/documentos/programacao/estudo-csharp/estudo-csharp/obj/Debug/net7.0/estudo-csharp.AssemblyInfoInputs.cache
+/Users/samuelaraag/Downloads/documentos/programacao/estudo-csharp/estudo-csharp/obj/Debug/net7.0/estudo-csharp.AssemblyInfo.cs
+/Users/samuelaraag/Downloads/documentos/programacao/estudo-csharp/estudo-csharp/obj/Debug/net7.0/estudo-csharp.csproj.CoreCompileInputs.cache
+/Users/samuelaraag/Downloads/documentos/programacao/estudo-csharp/estudo-csharp/obj/Debug/net7.0/estudo-csharp.dll
+/Users/samuelaraag/Downloads/documentos/programacao/estudo-csharp/estudo-csharp/obj/Debug/net7.0/refint/estudo-csharp.dll
+/Users/samuelaraag/Downloads/documentos/programacao/estudo-csharp/estudo-csharp/obj/Debug/net7.0/estudo-csharp.pdb
+/Users/samuelaraag/Downloads/documentos/programacao/estudo-csharp/estudo-csharp/obj/Debug/net7.0/estudo-csharp.genruntimeconfig.cache
+/Users/samuelaraag/Downloads/documentos/programacao/estudo-csharp/estudo-csharp/obj/Debug/net7.0/ref/estudo-csharp.dll
