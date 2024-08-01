@@ -1,0 +1,15 @@
+D:\Documentos\estudo-programacao\c-sharp-console\Estudo.Console\bin\Debug\net8.0\Estudo.Console.exe
+D:\Documentos\estudo-programacao\c-sharp-console\Estudo.Console\bin\Debug\net8.0\Estudo.Console.deps.json
+D:\Documentos\estudo-programacao\c-sharp-console\Estudo.Console\bin\Debug\net8.0\Estudo.Console.runtimeconfig.json
+D:\Documentos\estudo-programacao\c-sharp-console\Estudo.Console\bin\Debug\net8.0\Estudo.Console.dll
+D:\Documentos\estudo-programacao\c-sharp-console\Estudo.Console\bin\Debug\net8.0\Estudo.Console.pdb
+D:\Documentos\estudo-programacao\c-sharp-console\Estudo.Console\obj\Debug\net8.0\Estudo.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudo-programacao\c-sharp-console\Estudo.Console\obj\Debug\net8.0\Estudo.Console.AssemblyInfoInputs.cache
+D:\Documentos\estudo-programacao\c-sharp-console\Estudo.Console\obj\Debug\net8.0\Estudo.Console.AssemblyInfo.cs
+D:\Documentos\estudo-programacao\c-sharp-console\Estudo.Console\obj\Debug\net8.0\Estudo.Console.csproj.CoreCompileInputs.cache
+D:\Documentos\estudo-programacao\c-sharp-console\Estudo.Console\obj\Debug\net8.0\Estudo.Console.sourcelink.json
+D:\Documentos\estudo-programacao\c-sharp-console\Estudo.Console\obj\Debug\net8.0\Estudo.Console.dll
+D:\Documentos\estudo-programacao\c-sharp-console\Estudo.Console\obj\Debug\net8.0\refint\Estudo.Console.dll
+D:\Documentos\estudo-programacao\c-sharp-console\Estudo.Console\obj\Debug\net8.0\Estudo.Console.pdb
+D:\Documentos\estudo-programacao\c-sharp-console\Estudo.Console\obj\Debug\net8.0\Estudo.Console.genruntimeconfig.cache
+D:\Documentos\estudo-programacao\c-sharp-console\Estudo.Console\obj\Debug\net8.0\ref\Estudo.Console.dll
