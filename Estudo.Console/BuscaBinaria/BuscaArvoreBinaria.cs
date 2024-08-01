@@ -1,56 +1,39 @@
-﻿namespace Estudo.Console.BuscaBinaria
+﻿
+namespace Estudo.Console.BuscaBinaria
 {
     public class BuscaArvoreBinaria
     {
-        private Node root;
+        private Node? root = null;
 
-        public BuscaArvoreBinaria()
+        public void Inserir(int valor)
         {
-            root = null;
+            InserirRecursivo(root, valor);
         }
 
-        public void Insert(int value)
+        private static Node InserirRecursivo(Node? no, int valor)
         {
-            root = InsertRec(root, value);
+            no ??= new Node(valor);
+
+            return valor < no.Value
+                ? InserirRecursivo(no.Left, valor)
+                : InserirRecursivo(no.Right, valor);
         }
 
-        private Node InsertRec(Node root, int value)
+        public bool Buscar(int valor)
         {
-            if (root == null)
-            {
-                root = new Node(value);
-                return root;
-            }
-
-            if (value < root.Value)
-            {
-                root.Left = InsertRec(root.Left, value);
-            }
-            else if (value > root.Value)
-            {
-                root.Right = InsertRec(root.Right, value);
-            }
-
-            return root;
+            return BuscarRecursivo(root, valor);
         }
 
-        public bool Search(int value)
+        private static bool BuscarRecursivo(Node? root, int valor)
         {
-            return SearchRec(root, value);
-        }
+            if (root is null) return false;
 
-        private bool SearchRec(Node root, int value)
-        {
-            if (root == null)
-                return false;
+            if (valor == root.Value) return true;
 
-            if (root.Value == value)
-                return true;
-
-            else if (value < root.Value)
-                return SearchRec(root.Left, value);
+            if (valor < root.Value)
+                return BuscarRecursivo(root.Left, valor);
             else
-                return SearchRec(root.Right, value);
+                return BuscarRecursivo(root.Right, valor);
         }
     }
 }
